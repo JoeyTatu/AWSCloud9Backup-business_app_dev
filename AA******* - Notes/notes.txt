@@ -1,0 +1,90 @@
+Tasks assigned to each person of the group:
+
+Task: Customer_Search
+     By: Ali Chaman
+     Time allocated: 5 weeks (45 hours @ 9 hours/week)
+     Time task took: 8 weeks (72 hours)
+     In folder: customersearch, Event_View
+     
+Task: Company_Add (Company_Add_Event)
+     By: Chenlei Jie
+     Time allocated: 3 weeks (27 hours @ 9 hours/week)
+     Time task took: 3 weeks (27 hours)
+     In folder: company_add
+     
+Task: User_Reg_Login
+     By: Keith Feeney
+     Time allocated: 3 weeks (27 hours @ 9 hours/week)
+     Time task took: 3 weeks (27 hours)
+     In folder: account
+     
+Task: Admin_Main
+     By: Surendra Dura
+     Time allocated: 2 weeks (18 hours @ 9 hours/week)
+     Time task took: 2 weeks (18 hours)
+     In folder: admin_main
+     
+Task: Customer_Save
+     By: Surendra Dura
+     Time allocated: 4 weeks (36 hours @ 9 hours/week)
+     Time task took: 4 weeks (36 hours)
+     In folder: CustomerSaveevent
+     
+Task: Company_Edit_Resource (Company edit and delete existing resources)
+     By: Chenlei Jie
+     Time allocated: 2 weeks (18 hours @ 9 hours/week)
+     Time task took: 2 weeks (18 hours)
+     In folder: company_add
+     
+Task: User_Edit_Account
+     By: Keith Feeney
+     Time allocated: 2 weeks (18 hours @ 9 hours/week)
+     Time task took: 2 weeks (18 hours)
+     In folder: account
+     
+Task: Admin_Approve
+     By: Chenlei Jie (asssited by Surendra Dura)
+     Time allocated: 3 weeks (27 hours @ 9 hours/week)
+     Time task took: 3 weeks (27 hours)
+     In folder: customersaveevent
+     
+Task: Company_Delete
+     Assigned to: Ali Chaman
+     ** Done by: Keith Feeney
+     Time allocated: 1 week (9 hours @ 9 hours/week)
+     Time task took: 1 week (9 hours @ 9 hours/week)
+     In folder: account
+
+Task: Admin_Delete (Admin to delete Company or Customer account)
+     By: Keith Feeney
+     Time allocated: 1 week (9 hours @ 9 hours/week)
+     Time task took: 1 week (9 hours @ 9 hours/week)
+     In folder: account
+     
+Task: Admin_Add (Admin to add another admin account)
+     By: Ali Chaman
+     Time allocated: 2 weeks (18 hours @ 9 hours/week)
+     Time task took: NOT DONE
+     In folder: -
+     
+Task: Company_comment (Company to add, edit and delete comment under events)
+     By: Keith Feeney
+     Time allocated: 2 weeks (18 hours @ 9 hours/week)
+     Time task took: 0 - Surendra Dura had it done Customer_Save and Customer_Comment
+                    Keith Feeney worked with Chenlei Jie to assist in Admin_Approve
+     In folder: CustomerSaveevent
+     
+Task: Customer_Comment (Customer to add, edit and delete comment under events)
+     By: Surendra Dura
+     Time allocated: 2 weeks (18 hours @ 9 hours/week)
+     Time task took: 2 weeks (18 hours)
+     In folder: CustomerSaveevent
+     
+     
+     
+
+     
+
+     
+     
+     
