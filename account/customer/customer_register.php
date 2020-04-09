@@ -314,8 +314,6 @@ if(count($_POST)>0){//Check if there are variables passed in $ _POST
                                 </td>
                             </tr>
                             
-                                                        <!-- &nbsp;
-                            <input type="text" name="login" id="login" readonly="true"/><font color="red"><sup> (required)</sup></font> -->
                    
                              <tr>
                                  <td colspan="2">
